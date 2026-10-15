@@ -1,0 +1,4 @@
+file,trip_id,user_id,rows_clean,duplicates_removed,speed_outliers,acc_outliers,acc_values_filled,speed_values_filled,gps_rows_flagged,pct_rows_usable,usable_for_ml
+trip_T001_U101.xlsx,T001,U101,626,9,3,5,20,3,65,89.6,False
+trip_T002_U205.xlsx,T002,U205,720,10,3,4,14,3,65,91.0,True
+trip_T003_U318.xlsx,T003,U318,724,6,3,5,14,3,57,92.1,True
